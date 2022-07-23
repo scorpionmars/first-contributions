@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Varad Katkalambekar]
+- [Matthew Jean](https://github.com/scorpionmars)
 - [UsernameNotCopied](https://github.com/UsernameNotCopied/) 
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
